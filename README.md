@@ -1,7 +1,7 @@
 -  #  Sobre  mim
 - ## Eu sou o Altair
 - ### meu email é [altair.ferreira@escola.pr.gov.br](altair.ferreira@escola.pr.gov.br)
-- 💞️ I’m looking to collaborate on ...
+- #### Estouestudando linguagens de programação JavaScritpt, CSS e Scratch
 - 📫 How to reach me ...
 
 <!---
